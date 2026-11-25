@@ -1,0 +1,19 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Sensitive Streamlit settings
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+.venv_test/
+.venv_*/
